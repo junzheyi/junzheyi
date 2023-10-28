@@ -35,7 +35,7 @@ class Charles:
         elif year == current_year:
             return f"Now, I'm a student!"
         else:
-            return "Maybe in the future, I'm a ...! Listen, I mean who knows the future."
+            return "Maybe in the future, I'm a ...! Well, I mean who knows the future."
 
     def hobby(self) -> str:
         interests = [
