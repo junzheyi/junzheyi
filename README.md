@@ -1,22 +1,12 @@
-<!--### Hi there 👋
-***  -->
+### Hi there 👋
+
 # Junzhe Yi
- 
-<!--
-**junzheyi/junzheyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ***
+- 🔭 I’m currently a student in HUST, EIC.
+- 📫 How to reach me: junzheyi.0719@gmail.com
+- 😄 Pronouns: he/him
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-```python
+<!--```python
 import random
 import time
 import uuid
@@ -54,4 +44,4 @@ me = Charles(uuid_)
 print(f"Hi! I'm Charles, a {me.gender}.")
 print(f"I'm interested in {me.hobby()}.")
 print(f"Feel free to contact me through yeecharles82@gmail.com / junzheyi.0719@gmail.com !")
-```
+```-->
