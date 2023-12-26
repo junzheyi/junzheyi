@@ -5,7 +5,8 @@
 - 🔭 I’m currently a student in HUST, EIC.
 - 📫 How to reach me: junzheyi.0719@gmail.com
 - 😄 Pronouns: he/him
-
+- 🌱 I’m currently learning AIGC
+  
 ```python
 import random
 import time
@@ -23,16 +24,16 @@ class Charles:
         if year < current_year:
             return f"In {year}, I was a student."
         elif year == current_year:
-            return f"Now, I'm a student!"
+            return f"Now, I'm a wanderer in Huazhong University of Science and Technology!"
         else:
-            return "Maybe in the future, I'm a ...! Well, I mean who knows the future."
+            return "Maybe in the future, I'm a ...! Well, who knows the future."
 
     def hobby(self) -> str:
         interests = [
             'Science Fiction', 'Machine Learning',
             'few-shot object detection', 'Running',
             'Badminton', 'English', "Mcdonald's",
-            'Series', 'American blockbuster',
+            'Series', 'American blockbuster','AIGC'
         ]
         return random.choice(interests)
 
