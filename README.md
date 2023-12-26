@@ -6,7 +6,7 @@
 - 📫 How to reach me: junzheyi.0719@gmail.com
 - 😄 Pronouns: he/him
 
-<!--```python
+```python
 import random
 import time
 import uuid
@@ -44,4 +44,3 @@ me = Charles(uuid_)
 print(f"Hi! I'm Charles, a {me.gender}.")
 print(f"I'm interested in {me.hobby()}.")
 print(f"Feel free to contact me through yeecharles82@gmail.com / junzheyi.0719@gmail.com !")
-```-->
