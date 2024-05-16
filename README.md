@@ -1,12 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Junzhe Yi
 
-# Junzhe Yi
+<p><em>A bachelor student at <a href="https://www.hust.edu.cn">Huazhong University of Science and Technology</a>, majoring in Electronics and Information Engineering. 😊</br>
+</em></p>
+
  ***
-- 🔭 I’m currently a student in HUST, EIC.
+- 🔭 I’m currently a undergraduate student in HUST, EIC.
 - 📫 How to reach me: junzheyi.0719@gmail.com
 - 😄 Pronouns: he/him
-- 🌱 I’m currently learning AIGC
-  
+- 🌱 I’m currently working on Anomaly Detection and AIGC.
+  <img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
+
 ```python
 import random
 import time
@@ -24,16 +27,15 @@ class Charles:
         if year < current_year:
             return f"In {year}, I was a student."
         elif year == current_year:
-            return f"Now, I'm a wanderer in Huazhong University of Science and Technology!"
+            return f"Now, I'm a UG student in HuazhongUST!"
         else:
-            return "Maybe in the future, I'm a ...! Well, who knows the future."
+            return "Maybe in the future, I'm a ...!"
 
     def hobby(self) -> str:
         interests = [
-            'Science Fiction', 'Machine Learning',
-            'few-shot object detection', 'Running',
-            'Badminton', 'English', "Mcdonald's",
-            'Series', 'American blockbuster','AIGC'
+            'Machine Learning','AIGC'
+            'few-shot object detection',
+            'Badminton', "Mcdonald's", 'Running',
         ]
         return random.choice(interests)
 
