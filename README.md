@@ -8,7 +8,7 @@
 - 📫 How to reach me: junzheyi.0719@gmail.com
 - 😄 Pronouns: he/him
 - 🌱 I’m currently working on Anomaly Detection and AIGC.
-  <img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
+  <img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="320"/>
 
 ```python
 import random
