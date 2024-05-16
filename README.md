@@ -4,9 +4,6 @@
 </em></p>
 
  ***
-- 🔭 I’m currently a undergraduate student in HUST, EIC.
-- 📫 How to reach me: junzheyi.0719@gmail.com
-- 😄 Pronouns: he/him
 - 🌱 I’m currently working on Anomaly Detection and AIGC.
   <img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="260"/>
 
