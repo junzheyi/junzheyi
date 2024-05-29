@@ -5,7 +5,7 @@
 
  ***
 - 🌱 I’m currently working on Anomaly Detection and AIGC.
-  <img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="260"/>
+
 
 ```python
 import random
