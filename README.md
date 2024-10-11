@@ -17,7 +17,6 @@ class Charles:
         self.uuid = uuid
         self.gender = 'boy'
         self.pronouns = {'he', 'him', 'his'}
-        self.girlfriend = 'Yuerou Liu'
 
     def career(self, year: int) -> str:
         current_year = time.localtime().tm_year
