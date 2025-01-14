@@ -4,7 +4,7 @@
 </em></p>
 
  ***
-- 🌱 I’m currently working on Anomaly Detection and AIGC.
+- 🌱 I’m currently working on AIGC.
 
 
 ```python
