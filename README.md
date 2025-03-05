@@ -3,9 +3,6 @@
 <p><em>A bachelor student at <a href="https://www.hust.edu.cn">Huazhong University of Science and Technology</a>, majoring in Electronics and Information Engineering. 😊</br>
 </em></p>
 
- ***
-- 🌱 I’m currently working on AIGC.
-
 
 ```python
 import random
