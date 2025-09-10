@@ -2,6 +2,7 @@
 
 <p><em>A bachelor student at <a href="https://www.hust.edu.cn">Huazhong University of Science and Technology</a>, majoring in Electronics and Information Engineering. 😊</br>
 </em></p>
+Incoming master student supervised by Prof.[Xinggang Wang](https://xwcv.github.io/).
 
 
 ```python
