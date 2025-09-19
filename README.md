@@ -1,8 +1,10 @@
 ### Hi there 👋 I'm Junzhe Yi
 
-<p><em>A bachelor student at <a href="https://www.hust.edu.cn">Huazhong University of Science and Technology</a>, majoring in Electronics and Information Engineering. 😊</br>
+<p><em>Junior undergraduate at <a href="https://www.hust.edu.cn">Huazhong University of Science and Technology</a>, majoring in Electronics and Information Engineering. 😊</br>
 </em></p>
-Incoming master student supervised by Prof. <a href="https://xwcv.github.io/">Xinggang Wang</a>.
+<p><em>Incoming master student supervised by Prof. <a href="https://xwcv.github.io/">Xinggang Wang</a>.</em></p>
+
+
 
 
 ```python
@@ -28,7 +30,7 @@ class Charles:
     def hobby(self) -> str:
         interests = [
             'Machine Learning','AIGC'
-            'few-shot object detection',
+            'VLM','Object Detection',
             'Badminton', "Mcdonald's", 'Running',
         ]
         return random.choice(interests)
